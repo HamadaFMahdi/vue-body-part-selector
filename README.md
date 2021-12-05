@@ -1,4 +1,4 @@
-# vue-body-part-selector
+# Human Body Parts Selector (Vue JS)
 
 This is a library for those who want to be able to allow users to select body parts.
 
