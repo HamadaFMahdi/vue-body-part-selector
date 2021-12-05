@@ -1,13 +1,16 @@
 {
   "name": "vue-body-part-selector",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
   "license": "MIT",
   "main": "dist/vue-body-part-selector.ssr.js",
   "browser": "dist/vue-body-part-selector.esm.js",
   "module": "dist/vue-body-part-selector.esm.js",
   "unpkg": "dist/vue-body-part-selector.min.js",
-
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HamadaFMahdi/vue-body-part-selector"
+  },
   "files": [
     "dist/*",
     "src/**/*.vue"
