@@ -17,8 +17,8 @@ export default Vue.extend({
     };
   },
   methods: {
-    handleClick(newVal) {
-      console.log(newVal)
+    handleClick(bodyPartClicked) {
+      console.log(bodyPartClicked)
     }
   }
 });
