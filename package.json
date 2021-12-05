@@ -2,7 +2,7 @@
   "name": "vue-body-part-selector",
   "version": "1.0.0",
   "description": "",
-
+  "license": "MIT",
   "main": "dist/vue-body-part-selector.ssr.js",
   "browser": "dist/vue-body-part-selector.esm.js",
   "module": "dist/vue-body-part-selector.esm.js",
