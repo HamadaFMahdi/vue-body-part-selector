@@ -34,7 +34,7 @@ export default Vue.extend({
         :multiple="multiple"
         :body-colour="bodyColour"
         :selection-colour="selectionColour"
-        :showParts="{
+        :show-parts="{
           'head': true,
           'face': true,
           'neck': true,
